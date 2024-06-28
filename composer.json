@@ -5,3 +5,13 @@
         "illuminate/collections": "^11.13"
     }
 }
+
+{
+    "name": "hexlet/pairs",
+    "autoload": {
+        "files": [
+            "src/Pairs.php",
+            "src/Lists.php"
+        ]
+    }
+}
