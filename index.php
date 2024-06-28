@@ -1,3 +1,3 @@
 <?php
 
-echo "Hexlet one love.\n";
+echo "Hello, Hexlet!\n";
