@@ -1,8 +1,7 @@
 {
     "autoload": {
         "files": [
-            "src/Pairs.php",
-            "src/Lists.php"
+            "src/Runner.php"
         ]
     },
     "require": {
