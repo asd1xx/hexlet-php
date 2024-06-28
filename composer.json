@@ -1,17 +1,11 @@
 {
-    "name": "asd2d/hexlet-php",
-    "description": "hexlet-php",
-    "require": {
-        "illuminate/collections": "^11.13"
-    }
-}
-
-{
-    "name": "hexlet/pairs",
     "autoload": {
         "files": [
             "src/Pairs.php",
             "src/Lists.php"
         ]
+    },
+    "require": {
+        "illuminate/collections": "^11.13"
     }
 }
